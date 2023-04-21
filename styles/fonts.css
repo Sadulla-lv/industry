@@ -1,0 +1,20 @@
+.fad {
+    font-family: 'fontAwesome-duotone';
+    font-weight: 900;
+    font-style: normal;
+}
+
+.fab {
+    font-family: 'fontAwesome-brands';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fa,
+.far,
+.fas,
+.fal {
+    font-family: 'fontAwesome';
+    font-style: normal;
+}
+
